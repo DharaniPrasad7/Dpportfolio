@@ -104,7 +104,7 @@ export function Contact() {
                 <span>Send Message</span>
               </a>
               <a
-                href="/resume.pdf"
+                href="https://drive.google.com/file/d/1-a9UYIj5Sq3Rc3hAxl4Gwge3P-zltRtk/view?usp=sharing"
                 download
                 className="inline-flex items-center gap-2 px-6 py-3 border-2 border-white/30 text-white rounded-full hover:bg-white/10 transition-all hover:scale-105"
               >
